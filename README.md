@@ -9,7 +9,7 @@ Train image-generation LoRA adapters through Muapi’s unified API. This reposit
 - [Open Generative AI](https://github.com/Anil-matcha/Open-Generative-AI) — curated open generative-AI tools and resources.
 - [FLUX 3 Dev API](https://github.com/Anil-matcha/Flux-3-Dev-API) — related FLUX generation examples.
 - [Awesome AI Image Models](https://github.com/Anil-matcha/awesome-ai-image-models) — image-model discovery and comparison.
-- [Generative Media Skills](https://github.com/SamurAIGPT/Generative-Media-Skills) — reusable generative-media workflows.
+- [Generative Media Skills](https://github.com/SamurAIGPT/muapi-skills) — reusable generative-media workflows.
 
 ## What this repository covers
 
